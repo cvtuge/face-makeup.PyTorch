@@ -1,4 +1,5 @@
 # face-makeup.PyTorch
+修改头发，嘴唇颜色
 Lip and hair color editor using face parsing maps.
 
 <table>
